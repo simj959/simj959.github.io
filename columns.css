@@ -1,0 +1,13 @@
+body {
+    background-color: yellow;
+}
+
+.wrapper {
+    width: 400px;
+}
+.column {
+    width: 200px;
+    float: left;
+    padding: 20px;
+}
+

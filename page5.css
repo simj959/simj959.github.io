@@ -1,0 +1,23 @@
+p {
+font-size: 80px;
+border-bottom: 100px solid red;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}
+a:link {
+    background-color: red;
+}
+
+a:visited {
+    background-color: red;
+}
+
+a:hover {
+    background-color: #FF704D;
+}
+
+a:active {
+    background-color: #FF704D;
+}
