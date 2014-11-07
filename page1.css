@@ -16,3 +16,5 @@ h3 {
     font-size: 30px;
     color: #fff030
     }
+
+a.ex1:hover, a.ex1:active {font-size: 150%;}
