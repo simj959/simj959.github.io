@@ -1,5 +1,12 @@
+body {
+    background-image: url(http://pds22.egloos.com/pds/201201/05/05/4503659756968307.gif);
+    background-repeat: repeat;
+    padding: 0px;
+    margin: 0px;
+}
+
 h1 {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Arial", sans-serif;
     font-size: 80px;
     color: red
     
@@ -7,15 +14,20 @@ h1 {
 }
 
 h2 {
- font-family: "Times New Roman", Times, serif;
-    font-size: 50px;
-    color: #fab461
+     font-family: "Arial", sans-serif
+    font-size: 60px;
+    color: #ffffff
 }
 
 h3 {
- font-family: "Times New Roman", Times, serif;
+    font-family: "Arial", sans-serif;
     font-size: 30px;
-    color: #fff030
+    color: #ffffff
     }
 
 a.ex1:hover, a.ex1:active {font-size: 150%;}
+
+a:link    {color:white; text-decoration:none;}
+a:visited {color:#ffffff; text-decoration:none;}
+a:active  {color:#ffffff; text-decoration:none;}
+a:hover   {color:lime; text-decoration:none;}
