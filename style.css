@@ -5,3 +5,29 @@ a:visited {color:#ffffff; text-decoration:none;}
 a:active  {color:#ffffff; text-decoration:none;}
 a:hover   {color:lime; text-decoration:none;}
     
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.header {
+    position: absolute;
+    width: 600px;
+    height: 60px;
+    top:50%;
+    font-size: 80px;
+    font-family: Arial;
+    color:white;
+    background-color: black;
+}
+
+.content {
+    font-size: 12px;
+    font-family: Arial;
+    color: white;
+    background-color: black;
+    top: 50%;
+    left:50%;
+    line-height: 70px;
+}
